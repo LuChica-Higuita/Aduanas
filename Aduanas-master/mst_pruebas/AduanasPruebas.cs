@@ -13,7 +13,7 @@ namespace mst_pruebas
         public AduanasPruebas()
         {
             this.conexion = new Conexion();
-            // Asegúrate de que la clase DatosGenerales exista en la namespace adecuada
+            
             // this.conexion.StringConexion = DatosGenerales.StringConexion();
         }
 
