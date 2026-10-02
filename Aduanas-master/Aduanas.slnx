@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="cnl_Aduanas/cnl_Aduanas.csproj" />
+  <Project Path="libreria_Aplicaciones/libreria_Aplicaciones.csproj" />
+  <Project Path="mst_pruebas/mst_pruebas.csproj" />
+</Solution>
